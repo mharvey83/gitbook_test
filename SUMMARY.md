@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [This is the homepage!](README.md)
 * [Integrating w/ Simprints](integrating-w-simprints.md)
 * [Getting Started](getting-started.md)
 * [Enrolment](enrolment.md)
